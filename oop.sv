@@ -58,7 +58,7 @@ endclass
 
 // ------------------------------
 // Parameterized Class Example
-// ------------------------------
+
 class Storage #(type T = int);
   T data;
 
